@@ -7,7 +7,7 @@ import Card from "./Card";
 function App() {
   return (
         <div className="App">
-          <div className="outerContainer">
+          <div className="Cardss">
             <Card
               cardType="FREE"
               price="$0"
